@@ -1,16 +1,18 @@
 # key2iqround1
 
-A new Flutter application.
+A flutter based QUIZ App for Key2IQ
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## STEP 1:
+git clone https://github.com/Ankit-jailwal/Key2IQ.git
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## STEP 2:
+flutter pub get
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## STEP 3:
+flutter build apk
+
+Apllication will be ready to use.
